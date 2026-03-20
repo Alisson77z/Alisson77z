@@ -78,10 +78,11 @@ Hi 👋, I'm Alisson, a passionate Front-End Developer from Brazil 🇧🇷
 <p align="center">
   🔥 Building my future one line of code at a time
 </p>
-<p align="center">
-  <img src="dev.gif" width="450">
 </p>
-
+<p align="center">
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGs1dDI2anl6c2tvcWdhNzc5Z3ptbHc0MzJ2czU4amtqMmdwYXNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="450">
+</div>
 
 <!--
 **Alisson77z/Alisson77z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
